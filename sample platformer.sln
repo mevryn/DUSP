@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample platformer.Plugins", "sample platformer.Plugins.csproj", "{F0C364C7-495E-96B6-D832-13C47F18778B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample platformer.Editor.Plugins", "sample platformer.Editor.Plugins.csproj", "{E91ECAF6-8553-FDB9-933F-688A6F6C12AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0C364C7-495E-96B6-D832-13C47F18778B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C364C7-495E-96B6-D832-13C47F18778B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C364C7-495E-96B6-D832-13C47F18778B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C364C7-495E-96B6-D832-13C47F18778B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91ECAF6-8553-FDB9-933F-688A6F6C12AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91ECAF6-8553-FDB9-933F-688A6F6C12AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91ECAF6-8553-FDB9-933F-688A6F6C12AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91ECAF6-8553-FDB9-933F-688A6F6C12AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
